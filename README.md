@@ -1,2 +1,2 @@
-# Logika
-My projects for Logika. 
+# Resume
+My resume for Logika. 
