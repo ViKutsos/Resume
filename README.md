@@ -1,3 +1,2 @@
 # Resume
-My resume for Logika. 
-Опис проєкту.
+My resume for Logika.
